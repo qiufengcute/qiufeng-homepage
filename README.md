@@ -1,4 +1,5 @@
 # qiufeng-homepage
 
-This is my personal homepage.
-Borrowed from Zyyo's personal homepage project.
+这是我的个人主页。
+
+借鉴了 Zyyo 的个人主页项目。
